@@ -327,3 +327,11 @@ Track 2: AI Risk Manager, for educational and demonstration purposes only. It is
 **not** an official Razorpay product, is not affiliated with or endorsed by
 Razorpay, and must not be used to make real financial, banking, or regulatory
 decisions.
+
+Dataset
+
+The project was developed using the Kaggle Online Payment Fraud Detection dataset containing approximately 6.36 million transactions.
+
+The original dataset is not included in this repository because of its large file size. The "data/" directory contains a ".gitkeep" file to preserve the folder structure.
+
+The trained model and application code are included in the repository for demonstration and evaluation.
